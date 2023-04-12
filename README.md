@@ -25,7 +25,7 @@ MIT license
 
 https://l-demolish-l.github.io/ 🎮🌷❤️
 
-- Attractive ad design for YouTube and Tiktok:
+- Attractive ad design for YouTube and TikTok:
 
 https://drive.google.com/uc?id=1pSqKz2rZv1uxNQe1ILIn3pkX9zKlJX1S 💻🎨
 
