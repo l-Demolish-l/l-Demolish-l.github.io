@@ -27,9 +27,9 @@ https://l-demolish-l.github.io/
 
 - Attractive ad design for YouTube and TikTok:
 
-https://drive.google.com/uc?id=11PARCcjCotMehLYqCwj96slJxe7IpmDp
+https://drive.google.com/uc?id=1X7Wsttem2FZb616fOTiwImfG3ncqI5xJ
 
-https://drive.google.com/uc?id=15gYDdFRL19JVLuucfLgDH5nLEVTFnblx
+https://drive.google.com/uc?id=1Ec3RRLKqR8K2-copY7czuFl8Z6MTTpgr
 
  along with a lot of great features in the details ...
 
