@@ -23,13 +23,13 @@ MIT license
 
 - FREE domain and hosting FOREVER from GitHub:
 
-https://l-demolish-l.github.io/ 🎮🌷❤️
+https://l-demolish-l.github.io/
 
 - Attractive ad design for YouTube and TikTok:
 
-https://drive.google.com/uc?id=1pSqKz2rZv1uxNQe1ILIn3pkX9zKlJX1S 💻🎨
+https://drive.google.com/uc?id=11PARCcjCotMehLYqCwj96slJxe7IpmDp
 
-https://drive.google.com/uc?id=1OLoBolhq1V8PjOZN0bwi49zLza4xkMSQ 📱🎨
+https://drive.google.com/uc?id=15gYDdFRL19JVLuucfLgDH5nLEVTFnblx
 
  along with a lot of great features in the details ...
 
@@ -39,5 +39,5 @@ tamim.alshareef@gmail.com
 
 - My website:
 
-https://malaysia3d.github.io/ 😎
+https://malaysia3d.github.io/
 
