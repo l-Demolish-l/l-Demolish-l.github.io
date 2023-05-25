@@ -33,8 +33,6 @@ https://drive.google.com/uc?id=1Ec3RRLKqR8K2-copY7czuFl8Z6MTTpgr
 
 * Note 2: I can install up to 30 new products before paying to check everything out.
 
-* Note 3: I only charge $30 every time you want to update products.
-
 The price is $3,000
 
 Please let me know if you are interested.
