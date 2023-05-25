@@ -17,10 +17,6 @@ decomp.min.js 0.2.1
 https://github.com/schteppe/poly-decomp.js/
 MIT license
 
-* Note 1: This gaming website is for sale, with my assistants to install up to 30 new products before paying to check everything out.
-
-* Note 2: All images, videos and fonts used on this website and designs are totally free and allowed for commercial use.
-
 - FREE domain and hosting FOREVER from GitHub:
 
 https://l-demolish-l.github.io/
@@ -33,7 +29,15 @@ https://drive.google.com/uc?id=1Ec3RRLKqR8K2-copY7czuFl8Z6MTTpgr
 
  along with a lot of great features in the details ...
 
-Please let me know if you are interested, and send me your offer as you wish.
+* Note 1: All images, videos and fonts used on this website and designs are totally free and allowed for commercial use.
+
+* Note 2: I can install up to 30 new products before paying to check everything out.
+
+* Note 3: I only charge $30 every time you want to update products.
+
+The price is $3,000
+
+Please let me know if you are interested.
 
 tamim.alshareef@gmail.com
 
