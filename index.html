@@ -2029,7 +2029,7 @@
 				engine.gravity.y = 0;														// To remove gravity.
 				
 				stack = Matter.Composites.stack(75, 50, 6, 6, 10, 50, function(x, y) {
-					return Matter.Bodies.fromVertices(x, y, satellite, { friction: 0 , restitution: 1 , render: { fillStyle: newColors[Math.floor(Math.random()*newColors.length)] , strokeStyle: '#000' , lineWidth: 3 } }, true);
+					return Matter.Bodies.fromVertices(x, y, satellite, { restitution: 0 , render: { fillStyle: newColors[Math.floor(Math.random()*newColors.length)] , strokeStyle: '#000' , lineWidth: 3 } }, true);
 				});
 				
 				Matter.World.add(engine.world, [stack,mouseConstraint]);					// Ground removed.
@@ -2041,7 +2041,7 @@
 				engine.gravity.y = 0;														// To remove gravity.
 				
 				stack = Matter.Composites.stack(100, 0, 6, 6, 0, 0, function(x, y) {
-					return Matter.Bodies.fromVertices(x, y, star, { friction: 0 , restitution: 1 , render: { fillStyle: newColors[Math.floor(Math.random()*newColors.length)] , strokeStyle: '#000' , lineWidth: 3 } }, true);
+					return Matter.Bodies.fromVertices(x, y, star, { restitution: 0 , render: { fillStyle: newColors[Math.floor(Math.random()*newColors.length)] , strokeStyle: '#000' , lineWidth: 3 } }, true);
 				});
 				
 				Matter.World.add(engine.world, [stack,mouseConstraint]);					// Ground removed.
@@ -2116,7 +2116,7 @@
 				engine.gravity.y = 0;														// To remove gravity.
 				
 				stack = Matter.Composites.stack(155, 0, 6, 6, 50, 0, function(x, y) {
-					return Matter.Bodies.fromVertices(x, y, rocket, { friction: 0 , restitution: 1 , render: { fillStyle: newColors[Math.floor(Math.random()*newColors.length)] , strokeStyle: '#000' , lineWidth: 3 } }, true);
+					return Matter.Bodies.fromVertices(x, y, rocket, { restitution: 0 , render: { fillStyle: newColors[Math.floor(Math.random()*newColors.length)] , strokeStyle: '#000' , lineWidth: 3 } }, true);
 				});
 				
 				// https://brm.io/matter-js/docs/classes/Composite.html#method_allBodies
@@ -2135,11 +2135,11 @@
 				engine.gravity.y = 0;														// To remove gravity.
 				
 				stack = Matter.Composites.stack(35, 50, 6, 6, 50, 70, function(x, y) {
-					return Matter.Bodies.fromVertices(x, y, cool1, { friction: 0 , restitution: 1 , render: { fillStyle: newColors[Math.floor(Math.random()*newColors.length)] , strokeStyle: '#000' , lineWidth: 3 } }, true);
+					return Matter.Bodies.fromVertices(x, y, cool1, { restitution: 0 , render: { fillStyle: newColors[Math.floor(Math.random()*newColors.length)] , strokeStyle: '#000' , lineWidth: 3 } }, true);
 				});
 				
 				stack2 = Matter.Composites.stack(35, 80, 6, 6, 50, 55, function(x, y) {
-					return Matter.Bodies.fromVertices(x, y, cool2, { friction: 0 , restitution: 1 , render: { fillStyle: newColors[Math.floor(Math.random()*newColors.length)] , strokeStyle: '#000' , lineWidth: 3 } }, true);
+					return Matter.Bodies.fromVertices(x, y, cool2, { restitution: 0 , render: { fillStyle: newColors[Math.floor(Math.random()*newColors.length)] , strokeStyle: '#000' , lineWidth: 3 } }, true);
 				});
 				
 				//let sameColors = [];
@@ -2150,14 +2150,14 @@
 				
 				//stack = Matter.Composites.stack(35, 50, 6, 6, 50, 70, function(x, y) {
 				//	currentColor += 1;
-				//	return Matter.Bodies.fromVertices(x, y, cool1, { friction: 0 , restitution: 1 , render: { fillStyle: sameColors[currentColor] , strokeStyle: '#000' , lineWidth: 3 } }, true);
+				//	return Matter.Bodies.fromVertices(x, y, cool1, { restitution: 0 , render: { fillStyle: sameColors[currentColor] , strokeStyle: '#000' , lineWidth: 3 } }, true);
 				//});
 				
 				//currentColor = -1;
 				
 				//stack2 = Matter.Composites.stack(35, 80, 6, 6, 50, 55, function(x, y) {
 				//	currentColor += 1;
-				//	return Matter.Bodies.fromVertices(x, y, cool2, { friction: 0 , restitution: 1 , render: { fillStyle: sameColors[currentColor] , strokeStyle: '#000' , lineWidth: 3 } }, true);
+				//	return Matter.Bodies.fromVertices(x, y, cool2, { restitution: 0 , render: { fillStyle: sameColors[currentColor] , strokeStyle: '#000' , lineWidth: 3 } }, true);
 				//});
 				
 				Matter.World.add(engine.world, [stack,stack2,mouseConstraint]);				// Ground removed.
@@ -2225,7 +2225,7 @@
 				engine.gravity.y = 0;														// To remove gravity.
 				
 				stack = Matter.Composites.stack(115, 10, 6, 6, 30, 0, function(x, y) {
-					return Matter.Bodies.fromVertices(x, y, sol, { friction: 0 , restitution: 1 , render: { fillStyle: newColors[Math.floor(Math.random()*newColors.length)] , strokeStyle: '#000' , lineWidth: 3 } }, true);
+					return Matter.Bodies.fromVertices(x, y, sol, { restitution: 0 , render: { fillStyle: newColors[Math.floor(Math.random()*newColors.length)] , strokeStyle: '#000' , lineWidth: 3 } }, true);
 				});
 				
 				// https://brm.io/matter-js/docs/classes/Composite.html#method_allBodies
@@ -2244,7 +2244,7 @@
 				engine.gravity.y = 0;														// To remove gravity.
 				
 				stack = Matter.Composites.stack(100, 25, 6, 6, 0, 50, function(x, y) {
-					return Matter.Bodies.fromVertices(x, y, kiss, { friction: 0 , restitution: 1 , render: { fillStyle: newColors[Math.floor(Math.random()*newColors.length)] , strokeStyle: '#000' , lineWidth: 3 } }, true);
+					return Matter.Bodies.fromVertices(x, y, kiss, { restitution: 0 , render: { fillStyle: newColors[Math.floor(Math.random()*newColors.length)] , strokeStyle: '#000' , lineWidth: 3 } }, true);
 				});
 				
 				// https://brm.io/matter-js/docs/classes/Composite.html#method_allBodies
